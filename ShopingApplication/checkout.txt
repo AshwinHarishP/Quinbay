@@ -1,0 +1,15 @@
+1,phones,100.0,999
+2,computer,250.0,999
+3,headphones,99.0,100
+3,headphones,99.0,30
+3,headphones,99.0,1
+4,ball,65.0,1
+5,helicopter,20.0,1
+4,ball,65.0,2
+4,ball,65.0,1
+5,helicopter,20.0,1
+4,ball,65.0,2
+4,ball,65.0,2
+4,ball,65.0,2
+4,ball,65.0,2
+3,headphones,99.0,10
